@@ -1,5 +1,5 @@
 {
-    "name": "dragonbe/vies",
+    "name": "julesdohmen/vies",
     "type": "tool",
     "description": "EU VAT numbers validation using the VIES Service of the European Commission",
     "keywords": ["VIES","VAT","EU","EC"],
